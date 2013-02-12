@@ -32,9 +32,6 @@ function spewRandomFacts() {
         code += '<div class=\'line\'>';
         code += fact;
         code += '</div>';
-        // if (i < (num - 1)) {
-        //     code +='</div>\n';
-        // }
         facts.splice(randomIndex, 1);
     }
     var container=document.getElementById("randomfacts");
