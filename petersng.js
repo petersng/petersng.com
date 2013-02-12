@@ -6,9 +6,9 @@ function spewRandomFacts() {
         'grew up on Long Island.',
         'loves to sing and go to karaoke.',
         'plays ukulele.',
-        'interested in disruption.',
+        'is interested in disruption.',
         'relies on natural intuition.',
-        'entrepreneurial in spirit.',
+        'is entrepreneurial in spirit.',
         'likes to go globe-trotting.',
         'writes a lot of code.',
         'needs to ride his bike more.',
@@ -18,11 +18,11 @@ function spewRandomFacts() {
         'likes to be in constant motion.',
         'grew up in a Cantonese/Mandarin speaking household.',
         'wants to travel to South America next.',
-        'drinks "tea, earl grey, hot."',
+        'likes to drink "tea, earl grey, hot."',
         'is a NY Giants fan.',
         'is a NY Knicks fan.',
         'used to watch the Mets.',
-        'can be utter focused on small details.'
+        'can be utterly focused on small details.'
     ];
     var code = '';
     var num = 2;
