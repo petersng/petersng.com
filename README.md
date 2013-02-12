@@ -1,2 +1,1 @@
-Duh, it's my website.
----------------------
+petersng.com is my pied-à-terre on the internet.
