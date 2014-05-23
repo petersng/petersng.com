@@ -22,7 +22,7 @@ function spewRandomFacts() {
         'is a NY Giants fan.',
         'is a NY Knicks fan.',
         'used to watch the Mets.',
-        'can be utterly focused on small details.'
+        'can be anal about the small details.'
     ];
     var code = '';
     var num = 2;
