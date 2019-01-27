@@ -1,5 +1,7 @@
 function spewRandomFacts() {
     var facts = [
+        'lives with his wife and dog.',
+        'has a red & white Corgi.',
         'has been to 5 of the 7 continents.',
         'plays guitar.',
         'learned piano at age 5, quit at age 10.',
@@ -21,11 +23,12 @@ function spewRandomFacts() {
         'likes to drink "tea, earl grey, hot."',
         'is a NY Giants fan.',
         'is a NY Knicks fan.',
+        'keeps up the NBA.',
         'used to watch the Mets.',
-        'can be anal about the small details.'
+        'can be particular about the small details.'
     ];
     var code = '';
-    var num = 2;
+    var num = 3;
     for (var i=0; i < num; i++) {
         randomIndex = Math.floor(Math.random() * facts.length);
         fact = facts[randomIndex];
